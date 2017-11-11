@@ -20,4 +20,4 @@ diff.arr[diff.index] <- img.b[diff.index]
 
 # Export image
 
-writePNG(diff.arr, "ans_two.png")
+writePNG(diff.arr, "difference.png")
