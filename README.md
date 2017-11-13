@@ -1,3 +1,3 @@
 # Data Science Projects
 
-Comments/markdowns of codes to be added.
+This repository contains previous data sci (related) projects done by myself, comments be added soon...
