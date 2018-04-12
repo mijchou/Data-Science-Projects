@@ -1,6 +1,6 @@
 # set up
 
-setwd("D:/ML/Projects/Red wine rating predictions")
+setwd("../Red wine rating predictions")
 red.df <- read.csv("red.txt", sep=";")
 
 library("nnet")
