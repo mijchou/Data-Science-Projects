@@ -3,7 +3,7 @@
 library("rpart")
 library("caret")
 
-setwd("D:/ML/Projects/Red wine rating predictions")
+setwd("../Red wine rating predictions")
 red.df <- read.csv("red.txt", sep=";")
 
 # Define the number of folds used in cross-validation & the number of repeats of cross-validation. 
